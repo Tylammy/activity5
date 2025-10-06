@@ -3,7 +3,7 @@
    height: 300px;
 
    /* TODO: Add part of your solution here */
-   background-color: linear-gradient(to bottom, #228B22, #013220);
+   background-image: linear-gradient(to bottom, #228B22, #013220);
    
 }
 
@@ -44,7 +44,7 @@
    position: absolute;
    left: 240px;
    top: 120px;
-   z-index: -1;
+   z-index: 0;
 
 }
 
